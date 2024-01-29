@@ -71,7 +71,7 @@ Tailwind Palette requires the following dependencies:
 
 ## Troubleshooting
 
-If you encounter any issues, please refer to the [GitHub Issues](https://github.com/your-github-username/tailwind-palette/issues) page for common problems and solutions.
+If you encounter any issues, please refer to the [GitHub Issues](https://github.com/noahyoungs/tailwind-palette/issues) page for common problems and solutions.
 
 ## License
 
