@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Tailwind Palette is a Python package designed for working with the Tailwind CSS color palette. This library facilitates easy access and manipulation of Tailwind CSS colors in Python. It's an extension of the python-tailwind-colors library, originally developed by dostuffthatmatters, enhanced to provide additional functionality and improved user experience.
+Tailwind Palette is a Python package designed for working with the Tailwind CSS color palette. This library facilitates easy access and manipulation of Tailwind CSS colors in Python. It's an extension of the [python-tailwind-colors](https://github.com/dostuffthatmatters/python-tailwind-colors) library, originally developed by dostuffthatmatters, enhanced to provide additional functionality and improved user experience.
+
+[View the Tailwind CSS color palette here.](https://tailwindcss.com/docs/customizing-colors)
 
 ## Installation
 
