@@ -1,4 +1,4 @@
-# Tailwind Palette
+# Python Tailwind Palette
 
 ## Introduction
 
