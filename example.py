@@ -1,4 +1,4 @@
-from tailwind_colors import TailwindPalette as tp
+from tailwind_palette import TailwindPalette as tp
 
 # Example 1: Accessing colors
 # Using any of these 2 method will return the same result.
