@@ -14,6 +14,14 @@ pip install tailwind-palette
 
 ## Usage
 
+### Import Statement
+
+Use the following import statement to access the TailwindPalette class.
+
+```python
+from tailwind_palette import TailwindPalette as tp
+```
+
 ### Accessing Colors
 
 You can access color shades directly or use the '.get()' method.
@@ -21,8 +29,6 @@ You can access color shades directly or use the '.get()' method.
 **Direct Access:**
 
 ```python
-from tailwind_palette import TailwindPalette as tp
-
 slate_100 = tp.SLATE.shade_100
 print(f"Slate 100 Hex: {slate_100.hex}, RGB: {slate_100.rgb}")
 ```
