@@ -11,6 +11,7 @@ setup(
     description="A Python package for working with the Tailwind CSS color palette.",
     long_description=long_description,
     long_description_content_type="text/markdown",
+    url='https://github.com/noahyoungs/tailwind-palette',
     author="Noah Youngs",
     packages=find_packages(),
 )
